@@ -8,5 +8,5 @@ APP Clips
 
 通过`Safari Banner`或`iMessage`，点击`URL`链接下载和打开`App`，此时会弹出下面的问询窗口，告知用户是否要打开`APP clips`，点击open即可打开。如果已经安装主`App`，则打开的就是主`App`，所以主`App`和`APP clips`都需要支持这个`URL`。
 
-下面是打开主`App`的`Safari Banner`，`APP clips`的应该也这个形式差不多。
+下面是打开主`App`的`Safari Banner`，`APP clips`的应该也这个形式差不多。 
 
